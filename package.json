@@ -1,5 +1,5 @@
 {
-  "name": "hacksavvy",
+  "name": "Health ChatBot",
   "version": "1.0.0",
   "description": "Healthcare AI website model",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "Y. Chinmaya",
+  "author": "V. Akhil",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
